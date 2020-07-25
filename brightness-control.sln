@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brightness-control", "brightness-control\brightness-control.csproj", "{FF3DB6DC-C312-4562-A3FF-0712E811F9FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brightness-down", "brightness-down\brightness-down.csproj", "{E55F452E-AF94-4EF8-9633-FC64D3EEC634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brightness-up", "brightness-up\brightness-up.csproj", "{D7C9BF34-F40A-4923-8CAF-F673CB84B2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brightness-lib", "brightness-lib\brightness-lib.csproj", "{025BDCC5-AC83-45F8-A50E-A3373613C739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF3DB6DC-C312-4562-A3FF-0712E811F9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3DB6DC-C312-4562-A3FF-0712E811F9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3DB6DC-C312-4562-A3FF-0712E811F9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3DB6DC-C312-4562-A3FF-0712E811F9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E55F452E-AF94-4EF8-9633-FC64D3EEC634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55F452E-AF94-4EF8-9633-FC64D3EEC634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55F452E-AF94-4EF8-9633-FC64D3EEC634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55F452E-AF94-4EF8-9633-FC64D3EEC634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C9BF34-F40A-4923-8CAF-F673CB84B2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C9BF34-F40A-4923-8CAF-F673CB84B2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C9BF34-F40A-4923-8CAF-F673CB84B2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C9BF34-F40A-4923-8CAF-F673CB84B2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025BDCC5-AC83-45F8-A50E-A3373613C739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025BDCC5-AC83-45F8-A50E-A3373613C739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025BDCC5-AC83-45F8-A50E-A3373613C739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025BDCC5-AC83-45F8-A50E-A3373613C739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBA33AA9-7DF8-4402-A945-57AC31AAC1BE}
+	EndGlobalSection
+EndGlobal
