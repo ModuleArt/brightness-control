@@ -4,3 +4,12 @@ C:\Users\beelink\source\repos\brightness-control\brightness-control\bin\Debug\br
 C:\Users\beelink\source\repos\brightness-control\brightness-control\obj\Debug\brightness-control.csprojAssemblyReference.cache
 C:\Users\beelink\source\repos\brightness-control\brightness-control\obj\Debug\brightness-control.exe
 C:\Users\beelink\source\repos\brightness-control\brightness-control\obj\Debug\brightness-control.pdb
+D:\Projects\brightness-control\brightness-control\bin\Debug\brightness-control.exe.config
+D:\Projects\brightness-control\brightness-control\bin\Debug\brightness-control.exe
+D:\Projects\brightness-control\brightness-control\bin\Debug\brightness-control.pdb
+D:\Projects\brightness-control\brightness-control\bin\Debug\brightness-lib.dll
+D:\Projects\brightness-control\brightness-control\bin\Debug\brightness-lib.pdb
+D:\Projects\brightness-control\brightness-control\obj\Debug\brightness-control.csprojAssemblyReference.cache
+D:\Projects\brightness-control\brightness-control\obj\Debug\brightness-control.csproj.CopyComplete
+D:\Projects\brightness-control\brightness-control\obj\Debug\brightness-control.exe
+D:\Projects\brightness-control\brightness-control\obj\Debug\brightness-control.pdb

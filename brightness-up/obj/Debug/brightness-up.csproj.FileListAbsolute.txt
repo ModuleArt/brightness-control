@@ -1,0 +1,9 @@
+D:\Projects\brightness-control\brightness-up\bin\Debug\brightness-up.exe.config
+D:\Projects\brightness-control\brightness-up\bin\Debug\brightness-up.exe
+D:\Projects\brightness-control\brightness-up\bin\Debug\brightness-up.pdb
+D:\Projects\brightness-control\brightness-up\bin\Debug\brightness-lib.dll
+D:\Projects\brightness-control\brightness-up\bin\Debug\brightness-lib.pdb
+D:\Projects\brightness-control\brightness-up\obj\Debug\brightness-up.csprojAssemblyReference.cache
+D:\Projects\brightness-control\brightness-up\obj\Debug\brightness-up.csproj.CopyComplete
+D:\Projects\brightness-control\brightness-up\obj\Debug\brightness-up.exe
+D:\Projects\brightness-control\brightness-up\obj\Debug\brightness-up.pdb

@@ -1,2 +1,2 @@
 # brightness-control
-Console application for control display brightness for Window
+Console application to control display brightness for Windows

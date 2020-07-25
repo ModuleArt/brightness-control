@@ -2,3 +2,7 @@ C:\Users\beelink\source\repos\brightness-control\brightness-lib\bin\Release\brig
 C:\Users\beelink\source\repos\brightness-control\brightness-lib\bin\Release\brightness-lib.pdb
 C:\Users\beelink\source\repos\brightness-control\brightness-lib\obj\Release\brightness-lib.dll
 C:\Users\beelink\source\repos\brightness-control\brightness-lib\obj\Release\brightness-lib.pdb
+D:\Projects\brightness-control\brightness-lib\bin\Release\brightness-lib.dll
+D:\Projects\brightness-control\brightness-lib\bin\Release\brightness-lib.pdb
+D:\Projects\brightness-control\brightness-lib\obj\Release\brightness-lib.dll
+D:\Projects\brightness-control\brightness-lib\obj\Release\brightness-lib.pdb
