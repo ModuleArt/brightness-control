@@ -12,7 +12,6 @@ D:\Projects\brightness-control\brightness-control\bin\Release\brightness-control
 D:\Projects\brightness-control\brightness-control\bin\Release\brightness-control.pdb
 D:\Projects\brightness-control\brightness-control\bin\Release\brightness-lib.dll
 D:\Projects\brightness-control\brightness-control\bin\Release\brightness-lib.pdb
-D:\Projects\brightness-control\brightness-control\obj\Release\brightness-control.csprojAssemblyReference.cache
 D:\Projects\brightness-control\brightness-control\obj\Release\brightness-control.csproj.CopyComplete
 D:\Projects\brightness-control\brightness-control\obj\Release\brightness-control.exe
 D:\Projects\brightness-control\brightness-control\obj\Release\brightness-control.pdb
