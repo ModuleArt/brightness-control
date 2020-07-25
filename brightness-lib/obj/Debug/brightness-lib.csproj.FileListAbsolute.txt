@@ -1,0 +1,5 @@
+C:\Users\beelink\source\repos\brightness-control\brightness-lib\bin\Debug\brightness-lib.dll
+C:\Users\beelink\source\repos\brightness-control\brightness-lib\bin\Debug\brightness-lib.pdb
+C:\Users\beelink\source\repos\brightness-control\brightness-lib\obj\Debug\brightness-lib.csprojAssemblyReference.cache
+C:\Users\beelink\source\repos\brightness-control\brightness-lib\obj\Debug\brightness-lib.dll
+C:\Users\beelink\source\repos\brightness-control\brightness-lib\obj\Debug\brightness-lib.pdb
